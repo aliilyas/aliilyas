@@ -7,10 +7,10 @@
 
 # 👋 Hey, I’m Ilyas  
 
-I’m a **dev turned SRE** building things that don’t just *work* but also **scale without drama**.  
-Started out in **Java**, went deep into **AWS**, and now exploring **Azure + cloud reliability**.  
+I’m a dev turned SRE building things that don’t just *work* but also scale.  
+Started out in Java, went deep into AWS, and now exploring *Azure + cloud reliability*.  
 
-⚡ Forever curious about **Kafka, distributed systems, and open source**.  
+⚡ Forever curious about Kafka, JVM, distributed systems, and open source.  
 ☕ Coffee + code = best debugging tool.  
 
 ---
@@ -18,7 +18,7 @@ Started out in **Java**, went deep into **AWS**, and now exploring **Azure + clo
 ## 🚀 What I’m Into  
 - 🌱 Learning: **Go, Rust, DuckDB**  
 - 💬 Ask me about: **Java, AWS/Azure, Kubernetes, SRE things**  
-- 🛠 Current mood: *"automate everything or it didn’t happen."*  
+- 🛠 Current mood: "automate everything or it didn’t happen."  
 
 ---
 
