@@ -7,7 +7,7 @@
 
 # 👋 Hey, I’m Ilyas  
 
-I’m a **dev turned SRE** — building things that don’t just *work* but also **scale without drama**.  
+I’m a **dev turned SRE** building things that don’t just *work* but also **scale without drama**.  
 Started out in **Java**, went deep into **AWS**, and now exploring **Azure + cloud reliability**.  
 
 ⚡ Forever curious about **Kafka, distributed systems, and open source**.  
