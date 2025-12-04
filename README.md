@@ -5,34 +5,21 @@
 
 ---
 
-# 👋 Hey, I’m Ilyas  
+# Hey, I’m Ilyas  
 
-I’m a dev turned SRE building things that don’t just *work* but also scale.  
+I’m a Dev/SRE building things that don’t just *work* but also scale.  
 Started out in Java, went deep into AWS, and now exploring *Azure + cloud reliability*.  
 
-⚡ Forever curious about Kafka, JVM, distributed systems, and open source.  
-☕ Coffee + code = best debugging tool.  
+Forever curious about JVM, distributed systems, and open source.  
+Coffee + code = best debugging tool.  
 
 ---
 
-## 🚀 What I’m Into  
-- 🌱 Learning: **Go, Rust, DuckDB**  
-- 💬 Ask me about: **Java, AWS/Azure, Kubernetes, SRE things**  
-- 🛠 Current mood: "automate everything or it didn’t happen."  
+##  What I’m Into  
+-  Learning: **Go, Rust, DuckDB**  
+-  **Java, AWS/Azure, Kubernetes, SRE things**  
 
----
 
-## 🛠️ Stack Snapshot  
-
-| **Backend** | **Cloud** | **Tools / Extras** |
-|-------------|-----------|---------------------|
-| Java, Go, Node.js | AWS, Azure, K8s, Docker | Git, Linux, CI/CD, Terraform, Monitoring, Observability |
-
----
-
-## 🌐 Let’s Link Up  
+## 
 [💼 LinkedIn](https://www.linkedin.com/in/alikhojayev/) • [📧 Email](mailto:alikhojayev@example.com) • [💡 Stack Overflow](https://stackoverflow.com/users/1252595)  
 
----
-
-✨ Always building. Always shipping. Always learning.  
