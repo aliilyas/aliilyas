@@ -3,7 +3,6 @@
 [![Email](https://img.shields.io/badge/Email-Say%20Hi-red?style=flat-square&logo=gmail)](mailto:alikhojayev@example.com)
 [![Stack Overflow rep](https://img.shields.io/stackexchange/stackoverflow/r/1252595?label=Stack%20Overflow&logo=stack-overflow&style=flat-square)](https://stackoverflow.com/users/1252595)
 
----
 
 # Hey, I’m Ilyas  
 
@@ -13,12 +12,10 @@ Started out in Java, went deep into AWS, and now exploring *Azure + cloud reliab
 Forever curious about JVM, distributed systems, and open source.  
 Coffee + code = best debugging tool.  
 
----
 
 ##  What I’m Into  
 -  Learning: **Go, Rust, DuckDB**  
 -  **Java, AWS/Azure, Kubernetes, SRE things**  
-
 
 ## 
 [💼 LinkedIn](https://www.linkedin.com/in/alikhojayev/) • [💡 Stack Overflow](https://stackoverflow.com/users/1252595)  
