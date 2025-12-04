@@ -21,5 +21,5 @@ Coffee + code = best debugging tool.
 
 
 ## 
-[💼 LinkedIn](https://www.linkedin.com/in/alikhojayev/) • [📧 Email](mailto:alikhojayev@example.com) • [💡 Stack Overflow](https://stackoverflow.com/users/1252595)  
+[💼 LinkedIn](https://www.linkedin.com/in/alikhojayev/) • [💡 Stack Overflow](https://stackoverflow.com/users/1252595)  
 
