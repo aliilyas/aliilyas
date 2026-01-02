@@ -14,7 +14,7 @@ Coffee + code = best debugging tool.
 
 
 ##  What I’m Into  
--  Learning: **Go, Rust, DuckDB**  
+-  Exploring: **Rust, DuckDB**  
 -  **Java, AWS/Azure, Kubernetes, SRE things**  
 
 ## 
