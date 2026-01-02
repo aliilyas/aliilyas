@@ -9,7 +9,7 @@
 I’m a Dev/SRE building things that don’t just *work* but also scale.  
 Started out in Java, went deep into AWS, and now exploring *Azure + cloud reliability*.  
 
-Forever curious about JVM, distributed systems, and open source.  
+Curious about JVM, distributed systems, and open source.  
 Coffee + code = best debugging tool.  
 
 
@@ -18,5 +18,5 @@ Coffee + code = best debugging tool.
 -  **Java, AWS/Azure, Kubernetes, SRE things**  
 
 ## 
-[💼 LinkedIn](https://www.linkedin.com/in/alikhojayev/) • [💡 Stack Overflow](https://stackoverflow.com/users/1252595)  
+[💡 Stack Overflow](https://stackoverflow.com/users/1252595)  
 
